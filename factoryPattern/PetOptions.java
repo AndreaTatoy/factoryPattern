@@ -37,7 +37,7 @@ public class PetOptions {
                     scanner.close();
                     return;
                 default:
-                    System.out.println("Invalid. Please enter only 1, 2, or 3.");
+                    System.out.println("Invalid. Please enter only numbers 1, 2, or 3.");
             }
         }
     }
